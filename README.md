@@ -10,4 +10,5 @@
 [8. Best time to buy and sell stocks II](./best-time-to-buy-and-sell-stocks_II/problem.txt) | [Solution](./best-time-to-buy-and-sell-stocks_I/solution.py)  
 [9. Jump game](./jump-game/problem.txt) | [Solution](./jump-game/solution.py)  
 [10. Jump game II](./jump-game_II/problem.txt) | [Solution](./jump-game_II/solution.py)  
-[11. h-index](./h-index/problem.txt) | [Solution](./h-index/solution.py)
+[11. h-index](./h-index/problem.txt) | [Solution](./h-index/solution.py)  
+[12. Insert Delete GetRandom O(1)](./insert-delete-getRandom-O(1)/problem.txt) | [Solution](./insert-delete-getRandom-O(1)/solution.py)
