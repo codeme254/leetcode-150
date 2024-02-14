@@ -12,5 +12,6 @@
 [10. Jump game II](./jump-game_II/problem.txt) | [Solution](./jump-game_II/solution.py)  
 [11. h-index](./h-index/problem.txt) | [Solution](./h-index/solution.py)  
 [12. Insert Delete GetRandom O(1)](./insert-delete-getRandom-O(1)/problem.txt) | [Solution](./insert-delete-getRandom-O(1)/solution.py)  
-[13. Gas station *](./gas-station/problem.txt) | [My naive solution(doesn't work well for very large inputs)](./gas-station/solution.py) | [Optimize solution](./gas-station/optimized-solution.py)
-[14. Candy](./candy/problem.txt) | [Solution](./candy/solution.py)
+[13. Gas station *](./gas-station/problem.txt) | [My naive solution(doesn't work well for very large inputs)](./gas-station/solution.py) | [Optimize solution](./gas-station/optimized-solution.py)  
+[14. Candy](./candy/problem.txt) | [Solution](./candy/solution.py)  
+[15. Trapping rain water](./trapping-rain-water/problem.txt) | [Solution](./trapping-rain-water/solution.py)
