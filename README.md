@@ -16,3 +16,4 @@
 [14. Candy](./candy/problem.txt) | [Solution](./candy/solution.py)  
 [15. Trapping rain water](./trapping-rain-water/problem.txt) | [Solution](./trapping-rain-water/solution.py)  
 [16. Roman to integer](./roman-to-integer/problem.txt) | [Solution](./roman-to-integer/solution.py)  
+[17. Length of the last word](./length-of-last-word/problem.txt) | [Solution](./length-of-last-word/solution.py)  
