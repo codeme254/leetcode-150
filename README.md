@@ -18,4 +18,5 @@
 [16. Roman to integer](./roman-to-integer/problem.txt) | [Solution](./roman-to-integer/solution.py)  
 [17. Length of the last word](./length-of-last-word/problem.txt) | [Solution](./length-of-last-word/solution.py)  
 [18. Integer to roman](./integer-to-roman/problem.txt) | [Solution](./integer-to-roman/solution.py)  
-[19. Longest common prefix](./longest-common-prefix/problem.txt) | [Solution](./longest-common-prefix/solution.py)
+[19. Longest common prefix](./longest-common-prefix/problem.txt) | [Solution](./longest-common-prefix/solution.py)  
+[20. Reverse words in a string](./reverse-words-in-a-string/problem.txt) | [Solution](./reverse-words-in-a-string/solution.py)  
