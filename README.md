@@ -22,3 +22,4 @@
 [20. Reverse words in a string](./reverse-words-in-a-string/problem.txt) | [Solution](./reverse-words-in-a-string/solution.py)  
 [21. Find the index of the first occurence in a string](./find-index-of-first-occurence-in-a-string/problem.txt) | [Solution](./find-index-of-first-occurence-in-a-string/solution.py)  
 [22. **Zigzag conversion**](./zigzag-conversion/problem.txt) | [Solution](./zigzag-conversion/solution.py)  
+[23. **Text justification**](./text-justification/problem.txt) | [Solution](./text-justification/solution.py)  
