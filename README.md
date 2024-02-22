@@ -29,3 +29,4 @@
 [27. Container with most water](./container_with_most_water/README.md) | [Solution](./container_with_most_water/solution.py)  
 [28. 3Sum](./3-sum/README.md) | [Solution](./3-sum/solution.py)  
 [29. Minimum Size Subarray Sum](./minimum_size_subarray_sum/README.md) | [My naive solution which doesn't work well on big inputs](./minimum_size_subarray_sum/solution.py) | [Optimized Solution](./minimum_size_subarray_sum/optimized_solution.py)  
+[30. Longest Substring without repeating characters](./longest_substring_without_repeating_characters/README.md) | [Solution](./longest_substring_without_repeating_characters/solution.py)  
