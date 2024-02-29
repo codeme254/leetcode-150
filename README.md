@@ -33,3 +33,4 @@
 [31. Ransom Note](./ransom_note/README.md) | [Solution](./ransom_note/solution.py)  
 [32. Isomorphic Strings](./isomorphic_strings/README.md) | [Solution](./isomorphic_strings/solution.py)  
 [33. Word Patter](./word_pattern/README.md) | [Solution](./word_pattern/solution.py)  
+[34. Valid Anagram](./valid_anagram/README.md) | [Solution](./valid_anagram/solution.py)  
