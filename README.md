@@ -31,3 +31,4 @@
 [29. Minimum Size Subarray Sum](./minimum_size_subarray_sum/README.md) | [My naive solution which doesn't work well on big inputs](./minimum_size_subarray_sum/solution.py) | [Optimized Solution](./minimum_size_subarray_sum/optimized_solution.py)  
 [30. Longest Substring without repeating characters](./longest_substring_without_repeating_characters/README.md) | [Solution](./longest_substring_without_repeating_characters/solution.py)  
 [31. Ransom Note](./ransom_note/README.md) | [Solution](./ransom_note/solution.py)  
+[32. Isomorphic Strings](./isomorphic_strings/README.md) | [Solution](./isomorphic_strings/solution.py)  
