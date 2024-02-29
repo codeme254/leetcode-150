@@ -32,3 +32,4 @@
 [30. Longest Substring without repeating characters](./longest_substring_without_repeating_characters/README.md) | [Solution](./longest_substring_without_repeating_characters/solution.py)  
 [31. Ransom Note](./ransom_note/README.md) | [Solution](./ransom_note/solution.py)  
 [32. Isomorphic Strings](./isomorphic_strings/README.md) | [Solution](./isomorphic_strings/solution.py)  
+[33. Word Patter](./word_pattern/README.md) | [Solution](./word_pattern/solution.py)  
