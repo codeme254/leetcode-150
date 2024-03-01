@@ -36,3 +36,4 @@
 [34. Valid Anagram](./valid_anagram/README.md) | [Solution](./valid_anagram/solution.py)  
 [35. Group Anagrams](./group_anagrams/README.md) | [Solution](./group_anagrams/solution.py)  
 [36. Two Sum](./two_sum/README.md) | [Solution](./two_sum/solution.py)  
+[37. Longest Consecutive Sequence](./longest_consecutive_sequence/README.md) | [Solution](./longest_consecutive_sequence/solution.py)  
