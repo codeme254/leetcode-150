@@ -35,3 +35,4 @@
 [33. Word Pattern](./word_pattern/README.md) | [Solution](./word_pattern/solution.py)  
 [34. Valid Anagram](./valid_anagram/README.md) | [Solution](./valid_anagram/solution.py)  
 [35. Group Anagrams](./group_anagrams/README.md) | [Solution](./group_anagrams/solution.py)  
+[36. Two Sum](./two_sum/README.md) | [Solution](./two_sum/solution.py)  
