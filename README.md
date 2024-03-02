@@ -37,3 +37,4 @@
 [35. Group Anagrams](./group_anagrams/README.md) | [Solution](./group_anagrams/solution.py)  
 [36. Two Sum](./two_sum/README.md) | [Solution](./two_sum/solution.py)  
 [37. Longest Consecutive Sequence](./longest_consecutive_sequence/README.md) | [Solution](./longest_consecutive_sequence/solution.py)  
+[38. Happy Number](./happy_number/README.md) | [Solution](./happy_number/solution.py)  
