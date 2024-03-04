@@ -40,3 +40,4 @@
 [38. Happy Number](./happy_number/README.md) | [Solution](./happy_number/solution.py)  
 [39. Contains Duplicates II](./contains_duplicate_II/README.md) | [Solution](./contains_duplicate_II/solution.py)  
 [40. Rotate Image](./rotate_image/README.md) | [Solution](./rotate_image/solution.py)  
+[41. Spiral matrix](./spiral_matrix/README.md) | [Solution](./spiral_matrix/solution-main.py)  
