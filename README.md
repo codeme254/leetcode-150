@@ -41,3 +41,4 @@
 [39. Contains Duplicates II](./contains_duplicate_II/README.md) | [Solution](./contains_duplicate_II/solution.py)  
 [40. Rotate Image](./rotate_image/README.md) | [Solution](./rotate_image/solution.py)  
 [41. Spiral matrix](./spiral_matrix/README.md) | [Solution](./spiral_matrix/solution-main.py)  
+[42. Set Matrix Zeroes](./set_matrix_zeroes/README.md) | [Solution](./set_matrix_zeroes/solution.py)  
