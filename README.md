@@ -42,3 +42,4 @@
 [40. Rotate Image](./rotate_image/README.md) | [Solution](./rotate_image/solution.py)  
 [41. Spiral matrix](./spiral_matrix/README.md) | [Solution](./spiral_matrix/solution-main.py)  
 [42. Set Matrix Zeroes](./set_matrix_zeroes/README.md) | [Solution](./set_matrix_zeroes/solution.py)  
+[43. Valid Sudoku](./valid_sudoku/README.md) | [Solution](./valid_sudoku/solution.py)  
