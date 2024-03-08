@@ -44,3 +44,4 @@
 [42. Set Matrix Zeroes](./set_matrix_zeroes/README.md) | [Solution](./set_matrix_zeroes/solution.py)  
 [43. Valid Sudoku](./valid_sudoku/README.md) | [Solution](./valid_sudoku/solution.py)  
 [44. Summary Ranges](./summary_ranges/README.md) | [Solution](./summary_ranges/solution.py)  
+[45. Merge Intervals](./merge_intevals/README.md) | [Solution](./merge_intevals/solution.py)  
