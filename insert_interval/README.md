@@ -1,5 +1,5 @@
 # Insert Interval
-You are given an array of non-overlapping intervals intervals where intervals[i] = [start<sub>i<sub>, end<sub>i<sub>] represent the start and the end of the i<sup>th</sup> interval and intervals is sorted in ascending order by start<sup>i</sup>. You are also given an interval newInterval = [start, end] that represents the start and end of another interval.
+You are given an array of non-overlapping intervals intervals where intervals[i] = [start<sub>i<sub>, end<sub>i</sub>] represent the start and the end of the i<sup>th</sup> interval and intervals is sorted in ascending order by start<sup>i</sup>. You are also given an interval newInterval = [start, end] that represents the start and end of another interval.
 
 Insert newInterval into intervals such that intervals is still sorted in ascending order by start<sub>i<sub> and intervals still does not have any overlapping intervals (merge overlapping intervals if necessary).
 
