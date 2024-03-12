@@ -48,3 +48,4 @@
 [46. Insert Interval](./insert_interval/README.md) | [Solution](./insert_interval/solution.py)  
 [47. Minimum Number Of Arrows To Burst Balloons](./minimum_number_of_arrows_to_burst_balloons/README.md) | [Solution](./minimum_number_of_arrows_to_burst_balloons/solution.py)  
 [48. Valid Parenthesis](./valid_parenthesis/README.md) | [Solution](./valid_parenthesis/solution.py)  
+[49 Min Stack](./min_stack/README.md) | [Solution](./min_stack/solution.py)  
