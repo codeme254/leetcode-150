@@ -51,3 +51,4 @@
 [49 Min Stack](./min_stack/README.md) | [Solution](./min_stack/solution.py)  
 [50. Evaluate Reverse Polish Notation](./evaluate_reverse_polish_notation/README.md) | [Solution](./evaluate_reverse_polish_notation/solution.py)  
 [51. Basic Calculator](./basic_calculator/README.md) | [Solution](./basic_calculator/solution.py)  
+[52. Linked List Cycle](./linked_list_cycle/README.md) | [Runner vs Walker Algorithm (Floyd's Hare vs Tortoise Algorithm) Solution](./linked_list_cycle/solution2.py) | [Bruteforce Solution](./linked_list_cycle/solution.py)  
