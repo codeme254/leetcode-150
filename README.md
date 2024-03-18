@@ -54,4 +54,5 @@
 [52. Linked List Cycle](./linked_list_cycle/README.md) | [Runner vs Walker Algorithm (Floyd's Hare vs Tortoise Algorithm) Solution](./linked_list_cycle/solution2.py) | [Bruteforce Solution](./linked_list_cycle/solution.py)  
 [53. Add Two Numbers](./add_two_numbers/README.md) | [Solution](./add_two_numbers/solution.py)  
 [54. Merge Two Sorted Lists](./merge_two_sorted_lists/README.md) | [Solution](./merge_two_sorted_lists/solution.py)  
-[55. Copy List With a Random Pointer](./copy_list_with_random_pointer/README.md) | [Solution](./copy_list_with_random_pointer/solution.py)
+[55. Copy List With a Random Pointer](./copy_list_with_random_pointer/README.md) | [Solution](./copy_list_with_random_pointer/solution.py)  
+[56. Remove n<sup>th</sup> node from the end of the list](./remove_nth_node_from_end_of_list/README.md) | [Solution](./remove_nth_node_from_end_of_list/solution.py)  
