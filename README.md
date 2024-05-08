@@ -56,3 +56,4 @@
 [54. Merge Two Sorted Lists](./merge_two_sorted_lists/README.md) | [Solution](./merge_two_sorted_lists/solution.py)  
 [55. Copy List With a Random Pointer](./copy_list_with_random_pointer/README.md) | [Solution](./copy_list_with_random_pointer/solution.py)  
 [56. Remove n<sup>th</sup> node from the end of the list](./remove_nth_node_from_end_of_list/README.md) | [Solution](./remove_nth_node_from_end_of_list/solution.py)  
+[56. Maximum Depth of a Binary Tree](./maximum_depth_of_binary_tree/README.md) | [Solution]
